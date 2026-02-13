@@ -8,13 +8,12 @@ If you choose to use our Service, then you agree to the collection and use of in
 The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, unless otherwise defined in this Privacy Policy.
 
-### Information Collection and Use
-TapTap game application does not collect or save any personal information.
-
-#### Through Google Play Games:
-Authentication information: We may access your user ID, display name, and profile picture from Google Play Games to identify you and display your information on leaderboards and achievements.
-Gameplay activity: We may access your gameplay activity, progress, and achievements to display them on leaderboards and track your progress within the game.
-Additional data: Depending on your settings and how you use the game, Google Play Games may collect additional data about your gameplay, which we may access with your consent.
+### Information Collection and Use  
+For a user to user certain features of the game, we may require you to provide us with certain personally identifiable information, including but not limited to user's name, email address, phone-number and location.
+The information that we request will be retained by us and used as described in this privacy policy.  
+Your name, email address and phone number are used to create a profile to enable you to create a profile to compete in tournaments.
+Your location data is used to place your profile in tournaments set for your region.
+The app does use third party services that may collect information used to facilitate application functionality. 
 
 #### Through AdMob:
 Device information: We may collect non-personally identifiable information about your device, such as model, operating system, and network connection, to optimize ad delivery and improve the overall user experience.
