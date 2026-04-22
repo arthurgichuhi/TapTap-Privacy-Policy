@@ -34,8 +34,11 @@ Your Choices:
 Leaderboards and achievements: You can control your data sharing for leaderboards and achievements in your Google Play Games settings.
 Targeted advertising: You can opt out of personalized advertising based on your device identifiers in your device settings.
 
-Data deletion: You can request deletion of your personal information by contacting us at arthurall100@gmail.com.
 Data Security: We take reasonable measures to protect your information from unauthorized access, use, disclosure, alteration, or destruction. However, no internet or electronic transmission is completely secure, so we cannot guarantee the absolute security of your information.
+
+### Data Deletion
+You can request deletion of your personal information by contacting us at arthurall100@gmail.com.
+Accounts inactive for more than two weeks will be deleted.
 
 ### Cookies
 Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
